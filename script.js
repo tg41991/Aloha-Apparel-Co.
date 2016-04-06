@@ -1,7 +1,7 @@
 
 $(function() {
 	$('.bxslider').bxSlider({
-		speed: 450,
+		speed: 500,
 		controls: false,
 		auto: true,
 		minSlides: 1,
